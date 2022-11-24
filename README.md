@@ -1,7 +1,7 @@
 # Socket.IO + SpringBoot
 이 자료는 스프링부트로 Socket.io 사용하는 법을 적습니다.
 
-공식문서 자료는 자세하지 않고, Servlet으로 사용하는 예시입니다.
+공식문서 자료는 헷갈리는 부분이 있으며, Servlet으로 사용하는 예시입니다.
 
 따라서 Spring에서 사용할 수 있도록 본 문서와 예제를 작성합니다.
 
@@ -13,7 +13,7 @@
 
 ## 문서
 - [공식문서](https://trinopoty.github.io/socket.io-server-java/)
-- Spring으로 재해석한 문서는 wiki에 적었습니다.
+- Spring으로 재해석한 문서는 [wiki](https://github.com/Sangyong-Jeon/SpringBoot_Socket.io/wiki)에 적었습니다.
 
 ## 설치법
 `build.gradle`에 다음 코드를 추가합니다.
